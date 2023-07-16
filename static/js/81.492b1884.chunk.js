@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktweets_app=self.webpackChunktweets_app||[]).push([[81],{782:function(e,a,t){t.r(a),t.d(a,{default:function(){return i}});t(791);var n,p=t(168),c=t(313).ZP.div(n||(n=(0,p.Z)(["\n  display: flex;\n"]))),s=t.p+"static/media/homepage-photo.5f7539aafac96c955a96.jpg",u=t(184);function i(){return(0,u.jsx)(c,{children:(0,u.jsx)("img",{src:s,alt:"Home page background"})})}}}]);
+//# sourceMappingURL=81.492b1884.chunk.js.map
